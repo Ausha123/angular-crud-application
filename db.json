@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Visal",
+      "lastName": "Sandeepa",
+      "email": "aushasandeepa569@gmail.com",
+      "dateofbirth": "2023-11-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "no company",
+      "experience": 5,
+      "pack": 9,
+      "id": 2
+    },
+    {
+      "firstName": "Ausha",
+      "lastName": "Sandeepa",
+      "email": "aushasandeepa569@gmail.com",
+      "dateofbirth": "2023-11-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Seekerscloud",
+      "experience": 6,
+      "pack": 45,
+      "id": 3
+    },
+    {
+      "firstName": "kamal",
+      "lastName": "vinod",
+      "email": "kamal@gmail.com",
+      "dateofbirth": "2023-11-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "kkkakk",
+      "experience": 9,
+      "pack": 9,
+      "id": 4
+    }
+  ]
+}
